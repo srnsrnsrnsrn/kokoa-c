@@ -1,3 +1,3 @@
 kokoa clone
 
-CSS 연습
+HTML CSS 연습
